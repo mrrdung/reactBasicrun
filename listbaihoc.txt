@@ -1,0 +1,47 @@
+1. Why React ?
+2. Class vs Hook (function component).  Redux vs Context API ?
+3. Setup env
+3.1 Hello world with React
+3.2 Source code on Github
+3.3 Structure React Project
+4. React components
+5. State
+6. React dev tool
+7. DOM Events
+8. Changing State
+9. Intro to Forms
+10. Nesting components
+11. Props
+12. Outputting Lists
+13. Stateless/StateFull Components (Function/Class Components)
+14. Conditional Output
+15. Split Components
+16. Functions as props
+17. Deleting data
+18. Recap & Virtual DOM
+19. CSS Files
+20. Lifecycle Methods
+21. To Do Apps (CRUD - create/read/update/delete)
+21.1 Create/Read data todos
+21.2 Update/Delete todo
+22. The react routers
+23. Links & NavLinks
+24. Redirect
+25. Higher Order Components
+26. Using axios
+27. Route parameters 
+28. Switch tags
+29. Importings images
+
+
+30. Introduce to Redux
+
+31. Redux Stores, Actions, Reducers
+
+32. Setting up Redux in React app
+
+33. Mapping State (Redux) to Props (React)
+
+34. Map Dispatch to Props (React) - Redux Dev Tool
+
+35. What's Next ?
